@@ -21,7 +21,7 @@
                <name xml:id="nrqplcx">Verovio</name>
                <p xml:id="p3fq6d">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="a9eo9gz1" enddate="2024-09-27T17:20:52" startdate="2024-09-27T16:25:10" version="1.0.14p">
+            <application xml:id="a9eo9gz1" enddate="2024-09-27T17:31:08" startdate="2024-09-27T16:25:10" version="1.0.14p">
                <name xml:id="nkyeegr1">mei-friend</name>
                <p xml:id="p4yeohn2">First edit by mei-friend 1.0.16, 19 September 2024.</p>
             </application>
@@ -515,6 +515,10 @@
                         </layer>
                      </staff>
                      <dynam xml:id="d18vfsn5" place="between" staff="1 2" tstamp="1.000000" val="36" vgrp="640">pp</dynam>
+                     <tempo xml:id="t6pb0ru2" staff="1" tstamp="1">Andantino</tempo>
+                     <tempo xml:id="t6pb3ru2" staff="1" tstamp="0">
+                        <rend fontsize="120%" fontweight="normal">INTRODUCTION</rend>
+                     </tempo>
                   </measure>
                   <measure xml:id="m1f53aq2" facs="#zone_01J8SBXEQ828KEKA6N5938FXCR" n="2">
                      <staff xml:id="s14acoz2" n="1">
@@ -1887,6 +1891,9 @@
                      </staff>
                      <dynam xml:id="dktg9ux" place="below" staff="1" tstamp="1.000000" val="49" vgrp="540">p</dynam>
                      <slur xml:id="s54rcvi" endid="#ngirpof" startid="#ntd006"/>
+                     <tempo xml:id="tq8w66r1" staff="1" tstamp="0">
+                        <rend fontweight="normal" fontsize="120%">WALZER</rend>
+                     </tempo>
                   </measure>
                   <measure xml:id="m1d9w1yt" facs="#zone_01J8SBXEQFWGF6QCKTMNCC8M3S" n="46">
                      <staff xml:id="s1crm5ke" n="1">
