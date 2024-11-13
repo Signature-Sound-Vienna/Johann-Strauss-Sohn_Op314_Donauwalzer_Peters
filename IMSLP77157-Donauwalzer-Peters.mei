@@ -21,7 +21,7 @@
                <name xml:id="nrqplcx">Verovio</name>
                <p xml:id="p3fq6d">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="a9eo9gz1" enddate="2024-11-13T15:17:39" startdate="2024-09-27T16:25:10" version="1.0.14p">
+            <application xml:id="a9eo9gz1" enddate="2024-11-13T15:34:41" startdate="2024-09-27T16:25:10" version="1.0.16">
                <name xml:id="nkyeegr1">mei-friend</name>
                <p xml:id="p4yeohn2">First edit by mei-friend 1.0.16, 19 September 2024.</p>
             </application>
@@ -5858,7 +5858,7 @@
                            <meterSig xml:id="m1slmoue" count="3" unit="4"/>
                            <staffGrp xml:id="sr4fs06">
                               <label xml:id="log6syw1">
-                                 <rend xml:id="ryisln41" fontsize="150%" fontweight="bold"  halign="center">4  </rend>
+                                 <rend xml:id="ryisln41" fontsize="150%" fontweight="bold" halign="center">4  </rend>
                               </label>
                               <staffDef xml:id="ss61arv1" lines="5" n="1"/>
                               <staffDef xml:id="slsuzt71" lines="5" n="2"/>
@@ -7189,7 +7189,7 @@
                            <meterSig xml:id="mgulmoue" count="3" unit="4"/>
                            <staffGrp xml:id="srgms06">
                               <label xml:id="logglyw1">
-                                 <rend xml:id="rygdln41" fontsize="150%" fontweight="bold"  halign="center">5  </rend>
+                                 <rend xml:id="rygdln41" fontsize="150%" fontweight="bold" halign="center">5  </rend>
                               </label>
                               <staffDef xml:id="s3g1arv1" lines="5" n="1"/>
                               <staffDef xml:id="sltgzt71" lines="5" n="2"/>
@@ -8875,8 +8875,16 @@
                                  </chord>
                               </layer>
                            </staff>
-                           <dir xml:id="div8ybj" place="above" staff="1" tstamp="1.000000" vgrp="2190">
-                              <rend xml:id="r1monttd" fontfam="Leland Text"></rend>
+                           <dir xml:id="div5ybj" place="above" staff="1" tstamp="0" vgrp="2190">
+                              <rend xml:id="r51syqh" halign="center">
+                                 <symbol xml:id="s534zjs" glyph.auth="smufl" glyph.name="coda"/>
+                              </rend>
+                           </dir>
+                           <dir xml:id="div8ybj" place="below" staff="2" tstamp="0" vgrp="2190">
+                              <rend xml:id="ricucg7" fontstyle="normal" halign="center">
+                                 <symbol xml:id="s554zjs" glyph.auth="smufl" glyph.name="coda"/>
+                                 <lb xml:id="lwsp9l5"/>NB.
+                              </rend>
                            </dir>
                            <tie xml:id="t1s0nicg" endid="#n1q3hkqv" startid="#n1jq1v8o"/>
                            <tie xml:id="tsor7ua" endid="#ngzlwmp" startid="#n9h9ces"/>
@@ -12388,7 +12396,7 @@
                            </layer>
                         </staff>
                         <dir xml:id="dw0kl0s1" place="between" staff="1 2" startid="#m1ut7s31">
-                           <rend fontstyle="normal" halign="center" fontsize="110%">G. P.</rend>
+                           <rend xml:id="rjim34b1" fontsize="110%" fontstyle="normal" halign="center">G. P.</rend>
                         </dir>
                      </measure>
                      <sb xml:id="sn3fyke"/>
@@ -13434,7 +13442,7 @@
                      <scoreDef xml:id="ssod73j">
                         <keySig xml:id="k1997xqx" sig="3s"/>
                      </scoreDef>
-                     <measure xml:id="m1osuhgm" facs="#zone_01J8SBXERRXAAYA9ESK5E1W15P" n="408" >
+                     <measure xml:id="m1osuhgm" facs="#zone_01J8SBXERRXAAYA9ESK5E1W15P" n="408">
                         <staff xml:id="s12c08ao" n="1">
                            <layer xml:id="l1x28iqa" n="1">
                               <chord xml:id="cmqhwmp" dur="4" dur.ppq="12" stem.dir="down">
@@ -13458,7 +13466,7 @@
                                  <artic xml:id="aqk3qd9" artic="acc"/>
                               </note>
                            </layer>
-                           <layer n="2">
+                           <layer xml:id="lqffk6f1" n="2">
                               <chord xml:id="c1vqyi1k" dur="4" dur.ppq="24" stem.dir="down">
                                  <note xml:id="nj3lvc2" oct="2" pname="a"/>
                                  <note xml:id="n1kuxrod" oct="3" pname="a"/>
@@ -13471,10 +13479,10 @@
                            <rend xml:id="rygwvay1" fontsize="120%" fontweight="normal">CODA II</rend>
                         </tempo>
                         <dir xml:id="d2hbk2j" place="above" staff="1" tstamp="0" vgrp="1">
-                           <symbol glyph.auth="smufl" glyph.name="coda"/>
+                           <symbol xml:id="splo5hg1" glyph.auth="smufl" glyph.name="coda"/>
                         </dir>
                         <dir xml:id="dnxim88" place="above" staff="1" tstamp="1.5" vgrp="1">
-                           <rend fontstyle="normal" fontsize="90%">Schluß des Walzers No. 5 bei Aufführung mit Chor.</rend>
+                           <rend xml:id="rqine73" fontsize="90%" fontstyle="normal">Schluß des Walzers No. 5 bei Aufführung mit Chor.</rend>
                         </dir>
                         <tie xml:id="ttimrkk1" endid="#n1cy1gf6" staff="2" startid="#nqi30th"/>
                         <dynam xml:id="dkp91a" place="between" staff="1 2" startid="#cmqhwmp">f</dynam>
@@ -13541,7 +13549,7 @@
                         <fermata xml:id="fzzktkh" form="norm" place="above" staff="1" startid="#cuv57vy"/>
                         <fermata xml:id="fs35r8f" form="norm" place="above" staff="2" startid="#c1maqk1d"/>
                      </measure>
-                     <measure xml:id="m1qailvp" facs="#zone_01J8SBXERRTBQYJZJHMTFE00QR" n="411" >
+                     <measure xml:id="m1qailvp" facs="#zone_01J8SBXERRTBQYJZJHMTFE00QR" n="411">
                         <staff xml:id="s1dp5tfx" n="1">
                            <layer xml:id="l1hc7y89" n="1">
                               <beam xml:id="b1cajmdf">
