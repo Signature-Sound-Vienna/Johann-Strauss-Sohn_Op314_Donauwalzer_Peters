@@ -3547,7 +3547,7 @@
                            <meterSig xml:id="m1ulmoue" count="3" unit="4"/>
                            <staffGrp xml:id="sr4ms06">
                               <label xml:id="log6lyw1">
-                                 <rend xml:id="ryidln41" fontsize="150%" fontweight="bold"  halign="center">2  </rend>
+                                 <rend xml:id="ryidln41" fontsize="150%" fontweight="bold" halign="center">2  </rend>
                               </label>
                               <staffDef xml:id="s361arv1" lines="5" n="1"/>
                               <staffDef xml:id="sltuzt71" lines="5" n="2"/>
@@ -4680,7 +4680,7 @@
                            <meterSig xml:id="m4qgifc" count="3" unit="4"/>
                            <staffGrp xml:id="stham9h">
                               <label xml:id="laiidfy1">
-                                 <rend xml:id="rhbfsbx2" fontsize="125%" fontweight="bold">3 </rend>
+                                 <rend xml:id="rhbfsbx2" fontsize="150%" fontweight="bold">3  </rend>
                               </label>
                               <staffDef xml:id="sy9wzhc" n="1"/>
                               <staffDef xml:id="sk5meyu1" n="2"/>
