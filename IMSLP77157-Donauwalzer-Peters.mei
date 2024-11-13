@@ -21,7 +21,7 @@
                <name xml:id="nrqplcx">Verovio</name>
                <p xml:id="p3fq6d">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="a9eo9gz1" enddate="2024-11-13T11:35:00" startdate="2024-09-27T16:25:10" version="1.0.16">
+            <application xml:id="a9eo9gz1" enddate="2024-11-13T13:47:03" startdate="2024-09-27T16:25:10" version="1.0.16">
                <name xml:id="nkyeegr1">mei-friend</name>
                <p xml:id="p4yeohn2">First edit by mei-friend 1.0.16, 19 September 2024.</p>
             </application>
@@ -13443,13 +13443,14 @@
                         <tempo xml:id="tk933fw2" staff="1" tstamp="0">
                            <rend xml:id="rygwvay1" fontsize="120%" fontweight="normal">CODA II</rend>
                         </tempo>
-                        <dir xml:id="d2hbk2j" place="above" staff="1" tstamp="0" vgrp="2130">
-                           <symbol glyph.auth="smufl" glyph.name="coda" />
+                        <dir xml:id="d2hbk2j" place="above" staff="1" tstamp="0" vgrp="1">
+                           <symbol glyph.auth="smufl" glyph.name="coda"/>
                         </dir>
-                        <dir xml:id="dnxim88" place="above" staff="1" tstamp="1.5">
+                        <dir xml:id="dnxim88" place="above" staff="1" tstamp="1.5" vgrp="1">
                            <rend fontstyle="normal" fontsize="90%">Schluß des Walzers No. 5 bei Aufführung mit Chor.</rend>
                         </dir>
                         <tie xml:id="ttimrkk1" endid="#n1cy1gf6" staff="2" startid="#nqi30th"/>
+                        <dynam xml:id="dkp91a" place="between" staff="1 2" startid="#cmqhwmp">f</dynam>
                      </measure>
                      <measure xml:id="m1548hj1" facs="#zone_01J8SBXERR2KVMQDJAWF4R2PH4" n="409">
                         <staff xml:id="s159awvg" n="1">
@@ -13485,6 +13486,11 @@
                      <measure xml:id="m1d3aqt9" facs="#zone_01J8SBXERRNGP9ZSDQ2JDEYFFW" n="410">
                         <staff xml:id="s16b1bl4" n="1">
                            <layer xml:id="l1gyoedq" n="1">
+                              <chord xml:id="c6ww9v3" dur="4" dur.ppq="24" stem.dir="down">
+                                 <note xml:id="n0ekg8q1" oct="5" pname="e"/>
+                                 <note xml:id="nvkblf" oct="5" pname="a"/>
+                                 <note xml:id="n2ngrxb1" accid.ges="s" oct="6" pname="c"/>
+                              </chord>
                               <chord xml:id="cuv57vy" dur="2" dur.ppq="48" stem.dir="down">
                                  <note xml:id="ndj4w80" oct="4" pname="b"/>
                                  <note xml:id="n19npkgs" oct="5" pname="d"/>
@@ -13642,6 +13648,7 @@
                               <note xml:id="n1jggtfd" accid.ges="s" dur="4" dur.ppq="24" oct="3" pname="c" stem.dir="up"/>
                            </layer>
                         </staff>
+                        <tie xml:id="t8ocnu3" curvedir="below" endid="#n1ffn072" staff="1" startid="#n2pihy6"/>
                      </measure>
                      <measure xml:id="m1tmykqa" facs="#zone_01J8SBXERRXADM5XY2CEYWEH2S" n="415">
                         <staff xml:id="s1b6hzt0" n="1">
@@ -13664,7 +13671,7 @@
                            </layer>
                         </staff>
                      </measure>
-                     <measure xml:id="mdd5l32" facs="#zone_01J8SBXERSSZZ73WF344R5QTFM" left="rptstart" n="416">
+                     <measure xml:id="mdd5l32" facs="#zone_01J8SBXERSSZZ73WF344R5QTFM" n="416">
                         <staff xml:id="s5k08oc" n="1">
                            <layer xml:id="l1fyyif3" n="1">
                               <chord xml:id="cpcpo9y1" dur="4" dur.ppq="24" stem.dir="down">
