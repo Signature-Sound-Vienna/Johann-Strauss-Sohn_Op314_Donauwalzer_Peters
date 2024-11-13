@@ -21,7 +21,7 @@
                <name xml:id="nrqplcx">Verovio</name>
                <p xml:id="p3fq6d">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="a9eo9gz1" enddate="2024-11-13T13:55:23" startdate="2024-09-27T16:25:10" version="1.0.16">
+            <application xml:id="a9eo9gz1" enddate="2024-11-13T15:10:26" startdate="2024-09-27T16:25:10" version="1.0.14p">
                <name xml:id="nkyeegr1">mei-friend</name>
                <p xml:id="p4yeohn2">First edit by mei-friend 1.0.16, 19 September 2024.</p>
             </application>
@@ -3540,14 +3540,14 @@
                      </ending>
                      <sb xml:id="s24jr14"/>
                   </section>
-                  <section xml:id="Walzer-2" restart="true">
-                     <section xml:id="Walzer-2-upbeat">
+                  <section xml:id="Walzer-2">
+                     <section xml:id="Walzer-2-upbeat" restart="true">
                         <scoreDef xml:id="s1yuu4ku">
                            <keySig xml:id="k1kj5s14" sig="2s"/>
                            <meterSig xml:id="m1ulmoue" count="3" unit="4"/>
                            <staffGrp xml:id="sr4ms06">
                               <label xml:id="log6lyw1">
-                                 <rend xml:id="ryidln41" fontsize="125%" fontweight="bold">2</rend>
+                                 <rend xml:id="ryidln41" fontsize="150%" fontweight="bold"  halign="center">2  </rend>
                               </label>
                               <staffDef xml:id="s361arv1" lines="5" n="1"/>
                               <staffDef xml:id="sltuzt71" lines="5" n="2"/>
@@ -5850,10 +5850,17 @@
                      <pb xml:id="p3ge5wb"/>
                   </section>
                   <section xml:id="Walzer-4">
-                     <section xml:id="Walzer-4-transition">
-                        <scoreDef xml:id="sl9t5qq">
-                           <keySig xml:id="k1tjmfi2" sig="0"/>
-                           <meterSig xml:id="ms0dh4k" count="3" unit="4"/>
+                     <section xml:id="Walzer-4-transition" restart="true">
+                        <scoreDef xml:id="s1ywu4ku">
+                           <keySig xml:id="k1kd5s14" sig="0"/>
+                           <meterSig xml:id="m1slmoue" count="3" unit="4"/>
+                           <staffGrp xml:id="sr4fs06">
+                              <label xml:id="log6syw1">
+                                 <rend xml:id="ryisln41" fontsize="150%" fontweight="bold"  halign="center">4  </rend>
+                              </label>
+                              <staffDef xml:id="ss61arv1" lines="5" n="1"/>
+                              <staffDef xml:id="slsuzt71" lines="5" n="2"/>
+                           </staffGrp>
                         </scoreDef>
                         <measure xml:id="mc7smjc" facs="#zone_01J8SBXEQXE9BV8YP0QRSV0QWJ" n="165">
                            <staff xml:id="s1pc4sil" n="1">
@@ -7174,10 +7181,17 @@
                      </ending>
                   </section>
                   <section xml:id="Walzer-5">
-                     <section xml:id="Walzer-5-transition">
-                        <scoreDef xml:id="s1u4jqet">
-                           <keySig xml:id="k1pz1trz" sig="3s"/>
-                           <meterSig xml:id="m15moz3z" count="3" unit="4"/>
+                     <section xml:id="Walzer-5-transition" restart="true">
+                       <scoreDef xml:id="s1ygu4ku">
+                           <keySig xml:id="k1gj5s14" sig="3s"/>
+                           <meterSig xml:id="mgulmoue" count="3" unit="4"/>
+                           <staffGrp xml:id="srgms06">
+                              <label xml:id="logglyw1">
+                                 <rend xml:id="rygdln41" fontsize="150%" fontweight="bold"  halign="center">5  </rend>
+                              </label>
+                              <staffDef xml:id="s3g1arv1" lines="5" n="1"/>
+                              <staffDef xml:id="sltgzt71" lines="5" n="2"/>
+                           </staffGrp>
                         </scoreDef>
                         <measure xml:id="m1ls9qy0" facs="#zone_01J8SBXER1NN6SM33R0GKWJG64" n="206">
                            <staff xml:id="s10atqex" n="1">
@@ -7203,7 +7217,6 @@
                               </layer>
                            </staff>
                            <dynam xml:id="d1h6g3l5" place="between" staff="1 2" tstamp="1.000000" val="88" vgrp="2040">f</dynam>
-                           <slur xml:id="s14vecp" endid="#n1u0adr2" startid="#nvj6pwj"/>
                         </measure>
                         <measure xml:id="m4rfwse" facs="#zone_01J8SBXER1N1GZ6Q1RVNS68NZ6" n="207">
                            <staff xml:id="s1599kdf" n="1">
@@ -7242,7 +7255,7 @@
                               <layer xml:id="l1i1rvsh" n="1">
                                  <chord xml:id="c1skgld5" dur="4" dur.ppq="24" stem.dir="down">
                                     <note xml:id="n8aoelp" oct="4" pname="a"/>
-                                    <note xml:id="n4jspfl" accid.ges="s" oct="5" pname="c"/>
+                                    <note xml:id="n4jspfl" accid="s" oct="5" pname="c"/>
                                     <note xml:id="nzsqxri" oct="5" pname="e"/>
                                  </chord>
                                  <beam xml:id="b1feph5f">
@@ -7486,6 +7499,8 @@
                               </layer>
                            </staff>
                            <dynam xml:id="d1kd0jmg" place="between" staff="1 2" tstamp="1.000000" val="49" vgrp="2550">p</dynam>
+                           <slur xml:id="sb1ygwm1" endid="#n14cqp0n" staff="1" startid="#n1lkh97"/>
+                           <slur xml:id="sjowbm91" endid="#nulp9oo" staff="2" startid="#n1o3c9n4"/>
                         </measure>
                         <measure xml:id="m17lvx9b" facs="#zone_01J8SBXER15F5DFHFKK3GB71ES" n="215" right="dbl">
                            <staff xml:id="s1gjyheu" n="1">
@@ -7514,6 +7529,8 @@
                                  <rest xml:id="r16iodgr" dur="4" dur.ppq="24"/>
                               </layer>
                            </staff>
+                           <slur xml:id="syspft91" endid="#n19v5b2j" staff="1" startid="#ntcrqfm"/>
+                           <slur xml:id="sdxe8al1" endid="#n17oqa6h" staff="2" startid="#nllvvad"/>
                         </measure>
                      </section>
                      <section xml:id="Walzer-5-pickup">
