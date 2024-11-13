@@ -21,7 +21,7 @@
                <name xml:id="nrqplcx">Verovio</name>
                <p xml:id="p3fq6d">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="a9eo9gz1" enddate="2024-11-13T15:10:26" startdate="2024-09-27T16:25:10" version="1.0.14p">
+            <application xml:id="a9eo9gz1" enddate="2024-11-13T15:17:39" startdate="2024-09-27T16:25:10" version="1.0.14p">
                <name xml:id="nkyeegr1">mei-friend</name>
                <p xml:id="p4yeohn2">First edit by mei-friend 1.0.16, 19 September 2024.</p>
             </application>
@@ -2343,6 +2343,7 @@
                            <tie xml:id="t18emvx8" endid="#n1yhcjkw" startid="#nhw4g4k"/>
                            <pedal xml:id="p7kgl251" dir="down" staff="2" startid="#n1b3dngi" vgrp="3"/>
                            <tie xml:id="t7t4syp2" endid="#n12yq77e" staff="1" startid="#n1ozyof7"/>
+                           <slur xml:id="skcvx6t1" endid="#nfym5o0" staff="1" startid="#n1ozyof7"/>
                         </measure>
                         <measure xml:id="mg5fzaa" facs="#zone_01J8SBXEQHT55EJE0E62C854FS" n="59">
                            <staff xml:id="s1o1u1s0" n="1">
@@ -2381,6 +2382,7 @@
                               </layer>
                            </staff>
                            <tie xml:id="tapnduu2" endid="#n18bm4ey" staff="1" startid="#n17awwvb"/>
+                           <slur xml:id="s6od6ss1" endid="#n1hcrhw1" staff="1" startid="#n17awwvb"/>
                         </measure>
                         <measure xml:id="m1ixxt95" facs="#zone_01J8SBXEQH1BYN5YF7796XE6AX" n="60">
                            <staff xml:id="s1akts4x" n="1">
@@ -2602,6 +2604,7 @@
                            </staff>
                            <tie xml:id="t1d1hf4a" endid="#np38gsm" startid="#n35vvkb"/>
                            <pedal xml:id="p09gipr2" dir="down" staff="2" startid="#noa955f" vgrp="3"/>
+                           <slur xml:id="ssbd3381" endid="#n1iqkafv" staff="1" startid="#n6u98mg"/>
                         </measure>
                         <measure xml:id="m12qlhtb" facs="#zone_01J8SBXEQJM9DCXC0TJP2ZQCBT" n="67">
                            <staff xml:id="s1wprpf5" n="1">
@@ -2641,6 +2644,7 @@
                            </staff>
                            <tie xml:id="tjib8hh" endid="#ni3skml" staff="1" startid="#n11r2sur"/>
                            <tie xml:id="tb0ptsm1" endid="#n1w5yg0o" staff="1" startid="#ni3skml"/>
+                           <slur xml:id="s93dbxb1" endid="#ng78g1i" staff="1" startid="#n11r2sur"/>
                         </measure>
                         <measure xml:id="mr78u7j" facs="#zone_01J8SBXEQJZ81FQ1PCHFEATW1W" n="68">
                            <staff xml:id="s1dn3u49" n="1">
@@ -5366,7 +5370,7 @@
                               </layer>
                            </staff>
                         </measure>
-                        <measure xml:id="m1v5ydr5" facs="#zone_01J8SBXEQVEDZ6ZH8T8A5NCHFN" left="rptstart" n="151">
+                        <measure xml:id="m1v5ydr5" facs="#zone_01J8SBXEQVEDZ6ZH8T8A5NCHFN" n="151">
                            <staff xml:id="sailouo" n="1">
                               <layer xml:id="lidc6dp" n="1">
                                  <chord xml:id="cf0p38z" dur="8" dur.ppq="12" stem.dir="up">
@@ -5419,19 +5423,17 @@
                            </staff>
                            <staff xml:id="sqbbmjy" n="2">
                               <layer xml:id="l1fgpvl" n="1">
-                                 <tuplet xml:id="t1xbnpdl" bracket.visible="true" num="3" numbase="2">
-                                    <note xml:id="np704eb" dur="4" dur.ppq="16" oct="3" pname="c" stem.dir="up"/>
-                                    <chord xml:id="cyycl9m" dur="4" dur.ppq="16" stem.dir="down">
-                                       <note xml:id="n1pgq0df" oct="3" pname="a"/>
-                                       <note xml:id="nyognx0" oct="4" pname="c"/>
-                                       <note xml:id="n1kqlezm" oct="4" pname="e"/>
-                                    </chord>
-                                    <chord xml:id="cm9kdqn" dur="4" dur.ppq="16" stem.dir="down">
-                                       <note xml:id="nvquyr9" oct="3" pname="a"/>
-                                       <note xml:id="n128q3kr" oct="4" pname="c"/>
-                                       <note xml:id="nsrln16" oct="4" pname="e"/>
-                                    </chord>
-                                 </tuplet>
+                                 <note xml:id="np704eb" dur="4" dur.ppq="16" oct="3" pname="c" stem.dir="up"/>
+                                 <chord xml:id="cyycl9m" dur="4" dur.ppq="16" stem.dir="down">
+                                    <note xml:id="n1pgq0df" oct="3" pname="a"/>
+                                    <note xml:id="nyognx0" oct="4" pname="c"/>
+                                    <note xml:id="n1kqlezm" oct="4" pname="e"/>
+                                 </chord>
+                                 <chord xml:id="cm9kdqn" dur="4" dur.ppq="16" stem.dir="down">
+                                    <note xml:id="nvquyr9" oct="3" pname="a"/>
+                                    <note xml:id="n128q3kr" oct="4" pname="c"/>
+                                    <note xml:id="nsrln16" oct="4" pname="e"/>
+                                 </chord>
                               </layer>
                            </staff>
                            <slur xml:id="sydq13m" endid="#n5zywd0" startid="#n1c9uxyw"/>
@@ -6591,9 +6593,9 @@
                            <slur xml:id="sr6h8s9" endid="#n6edq3h" staff="1" startid="#ntxtot9"/>
                            <dynam xml:id="dgoq6fq2" place="between" staff="1 2" startid="#c1vq39zw">fz</dynam>
                         </measure>
-                        <sb xml:id="s1bnsi89"/>
                      </ending>
                      <section xml:id="Walzer-4-B">
+                        <sb xml:id="s1bnsi89"/>
                         <measure xml:id="m1oj9ua8" facs="#zone_01J8SBXEQZDHRJFZSDBWSWRFQC" left="rptstart" n="189">
                            <staff xml:id="s1s6qxlt" n="1">
                               <layer xml:id="lkpv9lc" n="1">
@@ -7182,7 +7184,7 @@
                   </section>
                   <section xml:id="Walzer-5">
                      <section xml:id="Walzer-5-transition" restart="true">
-                       <scoreDef xml:id="s1ygu4ku">
+                        <scoreDef xml:id="s1ygu4ku">
                            <keySig xml:id="k1gj5s14" sig="3s"/>
                            <meterSig xml:id="mgulmoue" count="3" unit="4"/>
                            <staffGrp xml:id="srgms06">
