@@ -2920,7 +2920,7 @@
                            </staff>
                         </measure>
                      </section>
-                     <section xml:id="Walzer-1-B">
+                     <section xml:id="Walzer-1-B-Upbeat">
                         <scoreDef xml:id="sttk4pa">
                            <keySig xml:id="k1j201fm" sig="3s"/>
                         </scoreDef>
@@ -2949,6 +2949,8 @@
                            </staff>
                            <dynam xml:id="drrn5bk" place="below" staff="1" tstamp="2.000000" vgrp="2400">p</dynam>
                         </measure>
+                     </section>
+                     <section xml:id="Walzer-1-B">
                         <measure xml:id="m95wfrb" facs="#zone_01J8SBXEQKGZKX3F5HSADGJYZ8" left="rptstart" n="78">
                            <staff xml:id="s6nm28l" n="1">
                               <layer xml:id="l1swp5rz" n="1">
