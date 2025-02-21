@@ -493,7 +493,11 @@
                   </staffGrp>
                </scoreDef>
                <section xml:id="Donauwalzer-Klavier-zu-zwei-Händen">
-                  <expansion xml:id="expansion_Introduction" plist="#Andantino #Tempo-di-Valse"/> 
+                  <expansion xml:id="Longest_Version_Krauss" plist="#Introduction #Walzer-1-withRep-woDalSegno #Walzer-2-withRep-withDalSegno #Walzer-3-withRep1-withRep2-woDalSegno #Walzer-4-withRep1-withRep2-woDalSegno #Walzer-5-withRep-woDalSegno #Coda-I"/>
+                  <expansion xml:id="Shorter_Version_Boskovsky" plist="#Introduction #Walzer-1-woRep-woDalSegno #Walzer-2-woRep-withDalSegno #Walzer-3-withRep1-woRep2-woDalSegno #Walzer-4-withRep1-withRep2-woDalSegno #Walzer-5-withRep-woDalSegno #Coda-I"/>
+                  <expansion xml:id="Short_Version_Karajan_1987" plist="#Introduction #Walzer-1-woRep-woDalSegno #Walzer-2-woRep-withDalSegno #Walzer-3-withRep1-withRep2-woDalSegno #Walzer-4-withRep1-withRep2-woDalSegno #Walzer-5-withRep-woDalSegno #Coda-I"/>
+                  <expansion xml:id="Shortest_Version_Karajan_1946" plist="#Introduction #Walzer-1-woRep-woDalSegno #Walzer-2-woRep-withDalSegno #Walzer-3-woRep1-woRep2-woDalSegno #Walzer-4-withRep1-woRep2-woDalSegno #Walzer-5-woRep-woDalSegno #Coda-I"/>
+                  <expansion xml:id="Short_Version_Bauer-Theussl_1983" plist="#Introduction #Walzer-1-withRep-woDalSegno #Walzer-2-woRep-withDalSegno #Walzer-3-woRep1-woRep2-woDalSegno #Walzer-4-withRep1-withRep2-woDalSegno #Walzer-5-withRep-woDalSegno #Coda-I"/>
                   <section xml:id="Introduction">
                      <section xml:id="Andantino">
                         <pb xml:id="p7vcwwt"/>
