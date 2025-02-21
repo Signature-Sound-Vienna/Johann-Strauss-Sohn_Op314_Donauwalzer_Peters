@@ -471,7 +471,9 @@
             <score xml:id="szpirc1">
                <scoreDef xml:id="s114mzck">
                   <pgHead xml:id="p1kqm33o">
-                     <rend xml:id="r9si9dd" halign="center" valign="top">An der schönen blauen Donau</rend>
+                     <rend xml:id="r9si9d2" halign="center" valign="top" fontsize="xx-small">Dem Wiener Männergesangverein gewidmet<lb /></rend>
+                     <rend xml:id="r9si9d3" halign="center" valign="top" fontsize="xx-large"><lb />An der schönen blauen Donau</rend>
+                     <rend xml:id="r9si9d4" halign="center" valign="top" fontsize="normal"><lb />Le beau Danube bleu ~ Blue Danube</rend>
                      <rend xml:id="r13zug4z" halign="right" valign="bottom">Johann Strauß, op. 314 (1867)</rend>
                   </pgHead>
                   <staffGrp xml:id="s1ny9wgb">
