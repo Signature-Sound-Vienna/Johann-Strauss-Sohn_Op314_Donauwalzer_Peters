@@ -3557,7 +3557,7 @@
                   <section xml:id="Walzer-2">
                      <expansion xml:id="Walzer-2-withRep-withDalSegno" plist="#Walzer-2-A-Upbeat #Walzer-2-A #Walzer-2-A1 #Walzer-2-A #Walzer-2-A2 #Walzer-2-B #Walzer-2-A #Walzer-2-A-Fine"/>
                      <expansion xml:id="Walzer-2-woRep-withDalSegno" plist="#Walzer-2-A-Upbeat #Walzer-2-A #Walzer-2-A2 #Walzer-2-B #Walzer-2-A #Walzer-2-A-Fine"/>
-                     <section xml:id="Walzer-2-Upbeat" restart="true">
+                     <section xml:id="Walzer-2-A-Upbeat" restart="true">
                         <scoreDef xml:id="s1yuu4ku">
                            <keySig xml:id="k1kj5s14" sig="2s"/>
                            <meterSig xml:id="m1ulmoue" count="3" unit="4"/>
