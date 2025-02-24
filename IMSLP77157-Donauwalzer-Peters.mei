@@ -7199,8 +7199,8 @@
                      </ending>
                   </section>
                   <section xml:id="Walzer-5">
-                     <expansion xml:id="Walzer-5-withRep-woDalSegno" plist="#Walzer-5-Eingang #Walzer-5-Pickup #Walzer-5-A #Walzer-5-A1 #Walzer-5-A #Walzer-5-A2 #Walzer-5-B #Walzer-5-B2"/>
-                     <expansion xml:id="Walzer-5-woRep-woDalSegno" plist="#Walzer-5-Eingang #Walzer-5-Pickup #Walzer-5-A #Walzer-5-A2 #Walzer-5-B #Walzer-5-B2"/>
+                     <expansion xml:id="Walzer-5-withRep-woDalSegno" plist="#Walzer-5-Eingang #Walzer-5-Pickup #Walzer-5-A #Walzer-5-A1 #Walzer-5-A #Walzer-5-A2 #Walzer-5-B #Walzer-5-B1 #Walzer-5-B #Walzer-5-B2"/>
+                     <expansion xml:id="Walzer-5-woRep-woDalSegno" plist="#Walzer-5-Eingang #Walzer-5-Pickup #Walzer-5-A #Walzer-5-A2 #Walzer-5-B #Walzer-5-B1 #Walzer-5-B #Walzer-5-B2"/>
                      <section xml:id="Walzer-5-Eingang" restart="true">
                         <scoreDef xml:id="s1ygu4ku">
                            <keySig xml:id="k1gj5s14" sig="3s"/>
