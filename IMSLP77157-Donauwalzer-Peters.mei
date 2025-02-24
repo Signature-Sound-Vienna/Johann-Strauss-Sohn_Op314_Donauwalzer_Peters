@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
    <meiHead xml:id="m1y066gj">
       <fileDesc xml:id="f9ga7al">
          <titleStmt xml:id="t1l6vawq">
@@ -21,7 +18,7 @@
                <name xml:id="nrqplcx">Verovio</name>
                <p xml:id="p3fq6d">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="a9eo9gz1" enddate="2024-11-13T15:48:10" startdate="2024-09-27T16:25:10" version="1.0.16">
+            <application xml:id="a9eo9gz1" enddate="2025-02-21T10:46:54" startdate="2024-09-27T16:25:10" version="1.2.1">
                <name xml:id="nkyeegr1">mei-friend</name>
                <p xml:id="p4yeohn2">First edit by mei-friend 1.0.16, 19 September 2024.</p>
             </application>
@@ -474,7 +471,9 @@
             <score xml:id="szpirc1">
                <scoreDef xml:id="s114mzck">
                   <pgHead xml:id="p1kqm33o">
-                     <rend xml:id="r9si9dd" halign="center" valign="top">An der schönen blauen Donau</rend>
+                     <rend xml:id="r9si9d2" halign="center" valign="top" fontsize="small" fontstyle="italic">Dem Wiener Männergesangverein gewidmet<lb /></rend>
+                     <rend xml:id="r9si9d3" halign="center" valign="top" fontsize="xx-large"><lb />An der schönen blauen Donau</rend>
+                     <rend xml:id="r9si9d4" halign="center" valign="top" fontsize="large"><lb />Le beau Danube bleu ~ Blue Danube</rend>
                      <rend xml:id="r13zug4z" halign="right" valign="bottom">Johann Strauß, op. 314 (1867)</rend>
                   </pgHead>
                   <staffGrp xml:id="s1ny9wgb">
@@ -496,6 +495,11 @@
                   </staffGrp>
                </scoreDef>
                <section xml:id="Donauwalzer-Klavier-zu-zwei-Händen">
+                  <expansion xml:id="Longest_Version_Krauss" plist="#Introduction #Walzer-1-withRep-woDalSegno #Walzer-2-withRep-withDalSegno #Walzer-3-withRep1-withRep2-woDalSegno #Walzer-4-withRep1-withRep2-woDalSegno #Walzer-5-withRep-woDalSegno #Coda-I"/>
+                  <expansion xml:id="Shorter_Version_Boskovsky" plist="#Introduction #Walzer-1-woRep-woDalSegno #Walzer-2-woRep-withDalSegno #Walzer-3-withRep1-woRep2-woDalSegno #Walzer-4-withRep1-withRep2-woDalSegno #Walzer-5-withRep-woDalSegno #Coda-I"/>
+                  <expansion xml:id="Short_Version_Karajan_1987" plist="#Introduction #Walzer-1-woRep-woDalSegno #Walzer-2-woRep-withDalSegno #Walzer-3-withRep1-withRep2-woDalSegno #Walzer-4-withRep1-withRep2-woDalSegno #Walzer-5-withRep-woDalSegno #Coda-I"/>
+                  <expansion xml:id="Shortest_Version_Karajan_1946" plist="#Introduction #Walzer-1-woRep-woDalSegno #Walzer-2-woRep-withDalSegno #Walzer-3-woRep1-woRep2-woDalSegno #Walzer-4-withRep1-woRep2-woDalSegno #Walzer-5-woRep-woDalSegno #Coda-I"/>
+                  <expansion xml:id="Short_Version_Bauer-Theussl_1983" plist="#Introduction #Walzer-1-withRep-woDalSegno #Walzer-2-woRep-withDalSegno #Walzer-3-woRep1-woRep2-woDalSegno #Walzer-4-withRep1-withRep2-woDalSegno #Walzer-5-withRep-woDalSegno #Coda-I"/>
                   <section xml:id="Introduction">
                      <section xml:id="Andantino">
                         <pb xml:id="p7vcwwt"/>
@@ -1880,6 +1884,8 @@
                      </section>
                   </section>
                   <section xml:id="Walzer-1" restart="true">
+                     <expansion xml:id="Walzer-1-withRep-woDalSegno" plist="#Walzer-1-A #Walzer-1-B-Upbeat #Walzer-1-B #Walzer-1-B1 #Walzer-1-B #Walzer-1-B2"/>
+                     <expansion xml:id="Walzer-1-woRep-woDalSegno" plist="#Walzer-1-A #Walzer-1-B-Upbeat #Walzer-1-B #Walzer-1-B2"/>
                      <section xml:id="Walzer-1-A">
                         <scoreDef xml:id="s10tq7xf">
                            <meterSig xml:id="m14ev3n3" count="3" unit="4"/>
@@ -3549,6 +3555,8 @@
                      <sb xml:id="s24jr14"/>
                   </section>
                   <section xml:id="Walzer-2">
+                     <expansion xml:id="Walzer-2-withRep-withDalSegno" plist="#Walzer-2-A-Upbeat #Walzer-2-A #Walzer-2-A1 #Walzer-2-A #Walzer-2-A2 #Walzer-2-B #Walzer-2-A #Walzer-2-A-Fine"/>
+                     <expansion xml:id="Walzer-2-woRep-withDalSegno" plist="#Walzer-2-A-Upbeat #Walzer-2-A #Walzer-2-A2 #Walzer-2-B #Walzer-2-A #Walzer-2-A-Fine"/>
                      <section xml:id="Walzer-2-Upbeat" restart="true">
                         <scoreDef xml:id="s1yuu4ku">
                            <keySig xml:id="k1kj5s14" sig="2s"/>
@@ -4682,6 +4690,8 @@
                      <sb xml:id="s14x34yo"/>
                   </section>
                   <section xml:id="Walzer-3">
+                     <expansion xml:id="Walzer-3-withRep1-withRep2-woDalSegno" plist="#Walzer-3-A-Upbeat #Walzer-3-A #Walzer-3-A1 #Walzer-3-A #Walzer-3-A2 #Walzer-3-B #Walzer-3-B1 #Walzer-3-B #Walzer-3-B2"/>
+                     <expansion xml:id="Walzer-3-withRep1-woRep2-woDalSegno" plist="#Walzer-3-A-Upbeat #Walzer-3-A #Walzer-3-A1 #Walzer-3-A #Walzer-3-A2 #Walzer-3-B #Walzer-3-B2"/>
                      <section xml:id="Walzer-3-Upbeat" restart="true">
                         <scoreDef xml:id="s7qxpjf">
                            <keySig xml:id="k14j4f8z" sig="1s"/>
@@ -5856,6 +5866,8 @@
                      <pb xml:id="p3ge5wb"/>
                   </section>
                   <section xml:id="Walzer-4">
+                     <expansion xml:id="Walzer-4-withRep1-withRep2-woDalSegno" plist="#Walzer-4-Eingang #Walzer-4-A #Walzer-4-A1 #Walzer-4-A #Walzer-4-A2 #Walzer-4-B #Walzer-4-B1 #Walzer-4-B #Walzer-4-B2"/>
+                     <expansion xml:id="Walzer-4-withRep1-woRep2-woDalSegno" plist="#Walzer-4-Eingang #Walzer-4-A #Walzer-4-A1 #Walzer-4-A #Walzer-4-A2 #Walzer-4-B #Walzer-4-B2"/>
                      <section xml:id="Walzer-4-Eingang" restart="true">
                         <scoreDef xml:id="s1ywu4ku">
                            <keySig xml:id="k1kd5s14" sig="0"/>
@@ -7187,6 +7199,8 @@
                      </ending>
                   </section>
                   <section xml:id="Walzer-5">
+                     <expansion xml:id="Walzer-5-withRep-woDalSegno" plist="#Walzer-5-Eingang #Walzer-5-Pickup #Walzer-5-A #Walzer-5-A1 #Walzer-5-A #Walzer-5-A2 #Walzer-5-B #Walzer-5-B1 #Walzer-5-B #Walzer-5-B2"/>
+                     <expansion xml:id="Walzer-5-woRep-woDalSegno" plist="#Walzer-5-Eingang #Walzer-5-Pickup #Walzer-5-A #Walzer-5-A2 #Walzer-5-B #Walzer-5-B1 #Walzer-5-B #Walzer-5-B2"/>
                      <section xml:id="Walzer-5-Eingang" restart="true">
                         <scoreDef xml:id="s1ygu4ku">
                            <keySig xml:id="k1gj5s14" sig="3s"/>
@@ -8170,8 +8184,8 @@
                            <slur xml:id="s17qu6x4" endid="#nh71gk5" startid="#nixx9n"/>
                         </measure>
                      </ending>
-                     <sb xml:id="s1c178o4"/>
                      <section xml:id="Walzer-5-B">
+                        <sb xml:id="s1c178o4"/>
                         <measure xml:id="m82ok24" facs="#zone_01J8SBXER5709W74DS8YQZ1R1H" left="rptstart" n="222">
                            <staff xml:id="s1ss0ag9" n="1">
                               <layer xml:id="lvfop8z" n="1">
@@ -8681,8 +8695,8 @@
                               </layer>
                            </staff>
                         </measure>
+                        <sb xml:id="sygy27c"/>
                      </ending>
-                     <sb xml:id="sygy27c"/>
                      <ending xml:id="Walzer-5-B2" lendsym="angledown" n="2.">
                         <measure xml:id="m18sam8s" facs="#zone_01J8SBXER7V8QPXFC3E3A6SN9E" n="231b">
                            <staff xml:id="srp6saa" n="1">
@@ -8917,9 +8931,9 @@
                            </staff>
                         </measure>
                      </ending>
-                     <sb xml:id="s1yw8i8j"/>
                   </section>
                   <section xml:id="Coda-I">
+                     <sb xml:id="s1yw8i8j"/>
                      <scoreDef xml:id="s1k607kl">
                         <keySig xml:id="k66a1dj" sig="2s"/>
                         <meterSig xml:id="mdn56cu" count="3" unit="4"/>
@@ -13442,7 +13456,7 @@
                      </measure>
                      <sb xml:id="s1qxvbsw"/>
                   </section>
-                  <section xml:id="Coda-II">
+                  <section xml:id="Coda-II-Chor">
                      <scoreDef xml:id="ssod73j">
                         <keySig xml:id="k1997xqx" sig="3s"/>
                      </scoreDef>
