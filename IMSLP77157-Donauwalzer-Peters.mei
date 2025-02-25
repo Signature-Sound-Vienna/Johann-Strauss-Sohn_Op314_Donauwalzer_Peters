@@ -8078,7 +8078,6 @@
                            </staff>
                            <hairpin xml:id="h1f5tapi" form="cres" place="between" staff="1 2" tstamp="1.500000" tstamp2="1m+4.0000" vgrp="3"/>
                            <dynam xml:id="dt4ubkm1" place="between" staff="1 2" startid="#nusejml" vgrp="3">f</dynam>
-                           <beamSpan xml:id="bzds66f" endid="#r1ouygpf" plist="#r1ouygpf" startid="#r1ouygpf"/>
                         </measure>
                         <measure xml:id="m2m6js6" facs="#zone_01J8SBXER4ZKTVRVFCY9YA8584" n="219b">
                            <staff xml:id="s1xopasx" n="1">
