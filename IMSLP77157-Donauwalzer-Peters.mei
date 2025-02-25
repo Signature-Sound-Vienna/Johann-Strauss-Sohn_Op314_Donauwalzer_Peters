@@ -3556,8 +3556,8 @@
                      <sb xml:id="s24jr14"/>
                   </section>
                   <section xml:id="Walzer-2">
-                     <expansion xml:id="Walzer-2-withRep-withDalSegno" plist="#Walzer-2-A-Upbeat #Walzer-2-A #Walzer-2-A1 #Walzer-2-A #Walzer-2-A2 #Walzer-2-B #Walzer-2-A #Walzer-2-A-Fine"/>
-                     <expansion xml:id="Walzer-2-woRep-withDalSegno" plist="#Walzer-2-A-Upbeat #Walzer-2-A #Walzer-2-A2 #Walzer-2-B #Walzer-2-A #Walzer-2-A-Fine"/>
+                     <expansion xml:id="Walzer-2-withRep-withDalSegno" plist="#Walzer-2-A-Upbeat #Walzer-2-A #Walzer-2-A1 #Walzer-2-A #Walzer-2-A2 #Walzer-2-B #Walzer-2-A #Walzer-2-Fine"/>
+                     <expansion xml:id="Walzer-2-woRep-withDalSegno" plist="#Walzer-2-A-Upbeat #Walzer-2-A #Walzer-2-A2 #Walzer-2-B #Walzer-2-A #Walzer-2-Fine"/>
                      <section xml:id="Walzer-2-A-Upbeat" restart="true">
                         <scoreDef xml:id="s1yuu4ku">
                            <keySig xml:id="k1kj5s14" sig="2s"/>
@@ -4693,7 +4693,8 @@
                   <section xml:id="Walzer-3">
                      <expansion xml:id="Walzer-3-withRep1-withRep2-woDalSegno" plist="#Walzer-3-A-Upbeat #Walzer-3-A #Walzer-3-A1 #Walzer-3-A #Walzer-3-A2 #Walzer-3-B #Walzer-3-B1 #Walzer-3-B #Walzer-3-B2"/>
                      <expansion xml:id="Walzer-3-withRep1-woRep2-woDalSegno" plist="#Walzer-3-A-Upbeat #Walzer-3-A #Walzer-3-A1 #Walzer-3-A #Walzer-3-A2 #Walzer-3-B #Walzer-3-B2"/>
-                     <section xml:id="Walzer-3-Upbeat" restart="true">
+                     <expansion xml:id="Walzer-3-woRep1-woRep2-woDalSegno" plist="#Walzer-3-A-Upbeat #Walzer-3-A #Walzer-3-A2 #Walzer-3-B #Walzer-3-B2"/>
+                     <section xml:id="Walzer-3-A-Upbeat" restart="true">
                         <scoreDef xml:id="s7qxpjf">
                            <keySig xml:id="k14j4f8z" sig="1s"/>
                            <meterSig xml:id="m4qgifc" count="3" unit="4"/>
