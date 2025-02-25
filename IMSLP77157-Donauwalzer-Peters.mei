@@ -4163,8 +4163,8 @@
                            </dir>
                         </measure>
                      </ending>
-                     <sb xml:id="s117uze9"/>
                      <section xml:id="Walzer-2-B">
+                        <sb xml:id="s117uze9"/>
                         <scoreDef xml:id="s195o2h1">
                            <keySig xml:id="k1aifuit" sig="2f"/>
                         </scoreDef>
@@ -4686,8 +4686,8 @@
                            <repeatMark xml:id="r1mdylt7" func="segno" staff="1" tstamp="3.9"/>
                            <repeatMark xml:id="r10or82b" func="segno" place="below" staff="2" tstamp="3.9"/>
                         </measure>
+                        <sb xml:id="s14x34yo"/>
                      </section>
-                     <sb xml:id="s14x34yo"/>
                   </section>
                   <section xml:id="Walzer-3">
                      <expansion xml:id="Walzer-3-withRep1-withRep2-woDalSegno" plist="#Walzer-3-A-Upbeat #Walzer-3-A #Walzer-3-A1 #Walzer-3-A #Walzer-3-A2 #Walzer-3-B #Walzer-3-B1 #Walzer-3-B #Walzer-3-B2"/>
