@@ -18,7 +18,7 @@
                <name xml:id="nrqplcx">Verovio</name>
                <p xml:id="p3fq6d">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="a9eo9gz1" enddate="2025-02-21T10:46:54" startdate="2024-09-27T16:25:10" version="1.2.1">
+            <application xml:id="a9eo9gz1" enddate="2025-02-25T11:33:46" startdate="2024-09-27T16:25:10" version="1.2.2">
                <name xml:id="nkyeegr1">mei-friend</name>
                <p xml:id="p4yeohn2">First edit by mei-friend 1.0.16, 19 September 2024.</p>
             </application>
@@ -798,7 +798,6 @@
                               </layer>
                            </staff>
                            <pedal xml:id="p118bkh6" dir="down" place="below" staff="2" tstamp="1.000000" vgrp="2"/>
-                           <slur xml:id="s4aqzgc" startid="#n1jw6jh9"/>
                            <slur xml:id="s4t1vsk2" endid="#c1573t1c" staff="2" startid="#nuqimi7"/>
                            <dynam xml:id="djzaf2c1" place="above" staff="2" startid="#c1573t1c">pp</dynam>
                         </measure>
@@ -2449,7 +2448,6 @@
                                  </chord>
                               </layer>
                            </staff>
-                           <hairpin xml:id="h1jog5ei" form="cres" place="below" staff="1" tstamp="1.000000" vgrp="720"/>
                            <slur xml:id="smmc03z1" curvedir="below" endid="#n1dkjnhk" staff="1" startid="#np1k247"/>
                            <hairpin xml:id="hkj3eim2" form="cres" staff="1" tstamp="0.5" tstamp2="4"/>
                         </measure>
@@ -7193,7 +7191,6 @@
                                  <rest xml:id="r1xa4v9l" dur="4"/>
                               </layer>
                            </staff>
-                           <slur xml:id="sc29t56" startid="#n1tf5t3t"/>
                         </measure>
                         <sb xml:id="s8n4g3i"/>
                      </ending>
@@ -11937,7 +11934,6 @@
                               </chord>
                            </layer>
                         </staff>
-                        <slur xml:id="s1d65kwc" startid="#n1bgubt5"/>
                         <pedal xml:id="p8nf7uw1" dir="up" staff="2" startid="#n15so1lo" vgrp="4"/>
                      </measure>
                      <measure xml:id="m1kqsnry" facs="#zone_01J8SBXERJ7AKF8HZYFKBRXNM1" n="330">
@@ -11969,8 +11965,11 @@
                      <measure xml:id="m1b0p7di" facs="#zone_01J8SBXERJGYH8DYQGT34BS3D0" n="331">
                         <staff xml:id="s1kdwqwf" n="1">
                            <layer xml:id="l1t8mca8" n="1">
-                              <note xml:id="n1tr5mmr" dur="2" oct="5" pname="d" stem.dir="down"/>
-                              <rest xml:id="rmw207o" dur="4"/>
+                              <note xml:id="n1tr5mmr" dots="1" dur="2" oct="5" pname="d" stem.dir="down"/>
+                           </layer>
+                           <layer n="2">
+                              <rest xml:id="rmw2073" dur="4" oloc="5" ploc="a"/>
+                              <rest xml:id="rmw207o" dur="4" oloc="5" ploc="a"/>
                               <note xml:id="npvdaaq" dur="8" grace="unacc" oct="5" pname="d" stem.dir="up"/>
                               <chord xml:id="clwl3cc1" dur="4" stem.dir="up">
                                  <artic xml:id="ao765321" artic="stacc" place="above"/>
@@ -11994,9 +11993,9 @@
                               </chord>
                            </layer>
                         </staff>
-                        <slur xml:id="s1xyujxt" startid="#n1tr5mmr"/>
                         <dynam xml:id="dc9l7uh" place="below" staff="1" tstamp="1.000000" vgrp="2">f</dynam>
                         <slur xml:id="slmrgkf1" curvedir="above" endid="#n2ned0p2" staff="1" startid="#npvdaaq"/>
+                        <tie xml:id="tttydj7" curvedir="below" endid="#n18jttvn" staff="1" startid="#n1tr5mmr"/>
                      </measure>
                      <measure xml:id="m1n4fmgg" facs="#zone_01J8SBXERJX32WQPFSDP6G0DF3" n="332">
                         <staff xml:id="s1744soo" n="1">
@@ -12062,7 +12061,6 @@
                               <note xml:id="no35r64" dur="4" oct="3" pname="a" stem.dir="down"/>
                            </layer>
                         </staff>
-                        <slur xml:id="sd1brlp" startid="#n1txv99i"/>
                         <pedal xml:id="p41mkp31" dir="up" staff="2" startid="#n3m1uw9" vgrp="1"/>
                      </measure>
                      <measure xml:id="m1rfwao7" facs="#zone_01J8SBXERJRR6ZTD8NHVHMJ6B3" n="334">
