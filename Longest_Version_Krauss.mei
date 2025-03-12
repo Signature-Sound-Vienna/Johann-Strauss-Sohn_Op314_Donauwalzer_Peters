@@ -474,12 +474,12 @@
             <score xml:id="szpirc1">
                <scoreDef xml:id="s114mzck">
                   <pgHead xml:id="p1kqm33o" func="first">
-                     <rend xml:id="r9si9d2" halign="center" valign="top" fontsize="small" fontstyle="italic">Dem Wiener Männergesangverein gewidmet<lb xml:id="l1hwrijh" />
+                     <rend xml:id="r9si9d2" halign="center" valign="top" fontsize="small" fontstyle="italic">Dem Wiener Männergesangverein gewidmet<lb xml:id="l19ubqps" />
                      </rend>
                      <rend xml:id="r9si9d3" halign="center" valign="top" fontsize="xx-large">
-                        <lb xml:id="l13p48uj" />An der schönen blauen Donau</rend>
+                        <lb xml:id="l9riw3n" />An der schönen blauen Donau</rend>
                      <rend xml:id="r9si9d4" halign="center" valign="top" fontsize="large">
-                        <lb xml:id="lswfknq" />Le beau Danube bleu ~ Blue Danube</rend>
+                        <lb xml:id="l1d2j76d" />Le beau Danube bleu ~ Blue Danube</rend>
                      <rend xml:id="r13zug4z" halign="right" valign="bottom">Johann Strauß, op. 314 (1867)</rend>
                   </pgHead>
                   <staffGrp xml:id="s1ny9wgb">
@@ -502,7 +502,7 @@
                </scoreDef>
                <section xml:id="Donauwalzer-Klavier-zu-zwei-Händen">
                   <expansion plist="#Introduction #Walzer-1-withRep-woDalSegno #Walzer-2-withRep-withDalSegno #Walzer-3-withRep1-withRep2-woDalSegno #Walzer-4-withRep1-withRep2-woDalSegno #Walzer-5-withRep-woDalSegno #Coda-I" xml:id="Longest_Version_Krauss" />
-                  <expansion plist="#Introduction #Walzer-1-woRep-woDalSegno #Walzer-2-woRep-withDalSegno #Walzer-3-withRep1-woRep2-woDalSegno #Walzer-4-withRep1-withRep2-woDalSegno #Walzer-5-withRep-woDalSegno #Coda-I" xml:id="Shorter_Version_Boskovsky" />
+                  <expansion plist="#Introduction #Walzer-1-woRep-woDalSegnoX #Walzer-2-woRep-withDalSegno #Walzer-3-withRep1-woRep2-woDalSegnoY #Walzer-4-withRep1-withRep2-woDalSegno #Walzer-5-withRep-woDalSegno #Coda-I" xml:id="Shorter_Version_Boskovsky" />
                   <expansion plist="#Introduction #Walzer-1-woRep-woDalSegno #Walzer-2-woRep-withDalSegno #Walzer-3-withRep1-withRep2-woDalSegno #Walzer-4-withRep1-withRep2-woDalSegno #Walzer-5-withRep-woDalSegno #Coda-I" xml:id="Short_Version_Karajan_1987" />
                   <expansion plist="#Introduction #Walzer-1-woRep-woDalSegno #Walzer-2-woRep-withDalSegno #Walzer-3-woRep1-woRep2-woDalSegno #Walzer-4-withRep1-woRep2-woDalSegno #Walzer-5-woRep-woDalSegno #Coda-I" xml:id="Shortest_Version_Karajan_1946" />
                   <expansion plist="#Introduction #Walzer-1-withRep-woDalSegno #Walzer-2-woRep-withDalSegno #Walzer-3-woRep1-woRep2-woDalSegno #Walzer-4-withRep1-withRep2-woDalSegno #Walzer-5-withRep-woDalSegno #Coda-I" xml:id="Short_Version_Bauer-Theussl_1983" />
@@ -16103,7 +16103,7 @@
                            <layer xml:id="l1t8mca8" n="1">
                               <note xml:id="n1tr5mmr" dots="1" dur="2" oct="5" pname="d" stem.dir="down" />
                            </layer>
-                           <layer xml:id="l16180u0" n="2">
+                           <layer xml:id="lcns1so" n="2">
                               <rest xml:id="rmw2073" dur="4" ploc="a" oloc="5" />
                               <rest xml:id="rmw207o" dur="4" ploc="a" oloc="5" />
                               <note xml:id="npvdaaq" dur="8" oct="5" pname="d" grace="unacc" stem.dir="up" />
