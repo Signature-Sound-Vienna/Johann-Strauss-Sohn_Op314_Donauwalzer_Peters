@@ -31,7 +31,7 @@
    <music>
       <facsimile xml:id="fpdltmb1">
          <surface xml:id="surface_01J8SBXEQ7KKHCPGCW0A994RD8" lrx="1626" lry="2252" ulx="0" uly="0">
-            <graphic xml:id="graphic_01J8SBXEQ72QN6RQZZZ8NY6E7R" target="IMSLP77157-PMLP06843-Strauss-Jr--Blue-Danube-Op314--tr-Piano--Ed-Peters-1.jpg" width="1627vu" height="2253vu" />
+            <graphic xml:id="graphic_01J8SBXEQ72QN6RQZZZ8NY6E7R" target="img/IMSLP77157-PMLP06843-Strauss-Jr--Blue-Danube-Op314--tr-Piano--Ed-Peters-1.jpg" width="1627vu" height="2253vu" />
             <zone xml:id="zone_01J8SBXEQ8P6D64NY51CCHSNSG" lrx="485" lry="665" ulx="138" uly="310" type="measure" />
             <zone xml:id="zone_01J8SBXEQ828KEKA6N5938FXCR" lrx="696" lry="668" ulx="456" uly="312" type="measure" />
             <zone xml:id="zone_01J8SBXEQ8F7Y5C8CVFKNHYFST" lrx="889" lry="672" ulx="666" uly="317" type="measure" />
@@ -78,7 +78,7 @@
             <zone xml:id="zone_01J8SBXEQEQ8YFSCNKHT1VKVKN" lrx="1574" lry="2128" ulx="1417" uly="1870" type="measure" />
          </surface>
          <surface xml:id="surface_01J8SBXEQETPQ5YF8C9PCAT9J7" lrx="1626" lry="2252" ulx="0" uly="0">
-            <graphic xml:id="graphic_01J8SBXEQE0CCTZZ5A2KMAR8YB" target="IMSLP77157-PMLP06843-Strauss-Jr--Blue-Danube-Op314--tr-Piano--Ed-Peters-2.jpg" width="1627vu" height="2253vu" />
+            <graphic xml:id="graphic_01J8SBXEQE0CCTZZ5A2KMAR8YB" target="img/IMSLP77157-PMLP06843-Strauss-Jr--Blue-Danube-Op314--tr-Piano--Ed-Peters-2.jpg" width="1627vu" height="2253vu" />
             <zone xml:id="zone_01J8SBXEQFZJM3KF4RBHEHZYGM" lrx="472" lry="376" ulx="138" uly="55" type="measure" />
             <zone xml:id="zone_01J8SBXEQFWGF6QCKTMNCC8M3S" lrx="631" lry="376" ulx="440" uly="60" type="measure" />
             <zone xml:id="zone_01J8SBXEQFABREGDQ37CKMGJX7" lrx="790" lry="375" ulx="598" uly="60" type="measure" />
@@ -141,7 +141,7 @@
             <zone xml:id="zone_01J8SBXEQP96HWEVTNP52SXPNX" lrx="1590" lry="2139" ulx="1423" uly="1815" type="measure" />
          </surface>
          <surface xml:id="surface_01J8SBXEQPJ2H4V96FHAPAV4E3" lrx="1626" lry="2252" ulx="0" uly="0">
-            <graphic xml:id="graphic_01J8SBXEQQ3N37EAARRF6HYP6N" target="IMSLP77157-PMLP06843-Strauss-Jr--Blue-Danube-Op314--tr-Piano--Ed-Peters-3.jpg" width="1627vu" height="2253vu" />
+            <graphic xml:id="graphic_01J8SBXEQQ3N37EAARRF6HYP6N" target="img/IMSLP77157-PMLP06843-Strauss-Jr--Blue-Danube-Op314--tr-Piano--Ed-Peters-3.jpg" width="1627vu" height="2253vu" />
             <zone xml:id="zone_01J8SBXEQQP24ZSYT08386QQ8D" lrx="364" lry="380" ulx="60" uly="41" type="measure" />
             <zone xml:id="zone_01J8SBXEQQEHBP4J5TSJ8CV9TK" lrx="509" lry="371" ulx="325" uly="45" type="measure" />
             <zone xml:id="zone_01J8SBXEQQ5CJ98D5CPXFD5VJ0" lrx="658" lry="373" ulx="473" uly="47" type="measure" />
@@ -204,7 +204,7 @@
             <zone xml:id="zone_01J8SBXEQW6DK0K9D5699J0BKJ" lrx="1556" lry="2123" ulx="1368" uly="1812" type="measure" />
          </surface>
          <surface xml:id="surface_01J8SBXEQWAJ4YXDQ8B81BM02Y" lrx="1626" lry="2252" ulx="0" uly="0">
-            <graphic xml:id="graphic_01J8SBXEQXJB148M9E1MRZ7V08" target="IMSLP77157-PMLP06843-Strauss-Jr--Blue-Danube-Op314--tr-Piano--Ed-Peters-4.jpg" width="1627vu" height="2253vu" />
+            <graphic xml:id="graphic_01J8SBXEQXJB148M9E1MRZ7V08" target="img/IMSLP77157-PMLP06843-Strauss-Jr--Blue-Danube-Op314--tr-Piano--Ed-Peters-4.jpg" width="1627vu" height="2253vu" />
             <zone xml:id="zone_01J8SBXEQXE9BV8YP0QRSV0QWJ" lrx="372" lry="359" ulx="109" uly="68" type="measure" />
             <zone xml:id="zone_01J8SBXEQXAENDEPWSYWKNKNR6" lrx="473" lry="362" ulx="338" uly="78" type="measure" />
             <zone xml:id="zone_01J8SBXEQXTDX4XM824NRBNP6T" lrx="661" lry="366" ulx="441" uly="77" type="measure" />
@@ -263,7 +263,7 @@
             <zone xml:id="zone_01J8SBXER2Y90NXSPQQNPDPM2A" lrx="1544" lry="2143" ulx="1348" uly="1826" type="measure" />
          </surface>
          <surface xml:id="surface_01J8SBXER2RNCM6CV27WSFWVXK" lrx="1626" lry="2252" ulx="0" uly="0">
-            <graphic xml:id="graphic_01J8SBXER2VME00QMJ7ZSB2ZGP" target="IMSLP77157-PMLP06843-Strauss-Jr--Blue-Danube-Op314--tr-Piano--Ed-Peters-5.jpg" width="1627vu" height="2253vu" />
+            <graphic xml:id="graphic_01J8SBXER2VME00QMJ7ZSB2ZGP" target="img/IMSLP77157-PMLP06843-Strauss-Jr--Blue-Danube-Op314--tr-Piano--Ed-Peters-5.jpg" width="1627vu" height="2253vu" />
             <zone xml:id="zone_01J8SBXER2HB6KD8270ZMB3D46" lrx="376" lry="366" ulx="34" uly="56" type="measure" />
             <zone xml:id="zone_01J8SBXER22K7FXH454819QGTZ" lrx="548" lry="362" ulx="337" uly="46" type="measure" />
             <zone xml:id="zone_01J8SBXER3G0YRZV8EZFZQMR77" lrx="704" lry="358" ulx="510" uly="35" type="measure" />
@@ -322,7 +322,7 @@
             <zone xml:id="zone_01J8SBXER80BMZRYB2GWWBE1VA" lrx="1578" lry="2154" ulx="1405" uly="1850" type="measure" />
          </surface>
          <surface xml:id="surface_01J8SBXER84GFBM40WQN48FNGT" lrx="1626" lry="2252" ulx="0" uly="0">
-            <graphic xml:id="graphic_01J8SBXER8VQ3B0EBX1E7NV9GS" target="IMSLP77157-PMLP06843-Strauss-Jr--Blue-Danube-Op314--tr-Piano--Ed-Peters-6.jpg" width="1627vu" height="2253vu" />
+            <graphic xml:id="graphic_01J8SBXER8VQ3B0EBX1E7NV9GS" target="img/IMSLP77157-PMLP06843-Strauss-Jr--Blue-Danube-Op314--tr-Piano--Ed-Peters-6.jpg" width="1627vu" height="2253vu" />
             <zone xml:id="zone_01J8SBXER84CR5HX197AZFWSR3" lrx="314" lry="384" ulx="30" uly="49" type="measure" />
             <zone xml:id="zone_01J8SBXER8J2BEF3MQGMN6QPV5" lrx="433" lry="377" ulx="281" uly="57" type="measure" />
             <zone xml:id="zone_01J8SBXER8THBV91P2V4047Q82" lrx="557" lry="375" ulx="400" uly="53" type="measure" />
@@ -394,7 +394,7 @@
             <zone xml:id="zone_01J8SBXERH3GJPSBWD2PNNDMB1" lrx="1537" lry="2151" ulx="1357" uly="1831" type="measure" />
          </surface>
          <surface xml:id="surface_01J8SBXERH6XRTGQZ1HS9D9B8Q" lrx="1626" lry="2252" ulx="0" uly="0">
-            <graphic xml:id="graphic_01J8SBXERHZRJ19FFBDY45TZ54" target="IMSLP77157-PMLP06843-Strauss-Jr--Blue-Danube-Op314--tr-Piano--Ed-Peters-7.jpg" width="1627vu" height="2253vu" />
+            <graphic xml:id="graphic_01J8SBXERHZRJ19FFBDY45TZ54" target="img/IMSLP77157-PMLP06843-Strauss-Jr--Blue-Danube-Op314--tr-Piano--Ed-Peters-7.jpg" width="1627vu" height="2253vu" />
             <zone xml:id="zone_01J8SBXERHDVVGZ55DFM664Q29" lrx="306" lry="386" ulx="23" uly="55" type="measure" />
             <zone xml:id="zone_01J8SBXERHF5XGMFKH58A2V7M6" lrx="442" lry="388" ulx="267" uly="60" type="measure" />
             <zone xml:id="zone_01J8SBXERHQJ2A5FMYR09ES6E1" lrx="577" lry="387" ulx="404" uly="59" type="measure" />
@@ -474,12 +474,12 @@
             <score xml:id="szpirc1">
                <scoreDef xml:id="s114mzck">
                   <pgHead xml:id="p1kqm33o" func="first">
-                     <rend xml:id="r9si9d2" halign="center" valign="top" fontsize="small" fontstyle="italic">Dem Wiener Männergesangverein gewidmet<lb xml:id="l1djoit4" />
+                     <rend xml:id="r9si9d2" halign="center" valign="top" fontsize="small" fontstyle="italic">Dem Wiener Männergesangverein gewidmet<lb xml:id="ltazpat" />
                      </rend>
                      <rend xml:id="r9si9d3" halign="center" valign="top" fontsize="xx-large">
-                        <lb xml:id="l1f5zwac" />An der schönen blauen Donau</rend>
+                        <lb xml:id="l1k52kem" />An der schönen blauen Donau</rend>
                      <rend xml:id="r9si9d4" halign="center" valign="top" fontsize="large">
-                        <lb xml:id="l1qsywvs" />Le beau Danube bleu ~ Blue Danube</rend>
+                        <lb xml:id="l942c5q" />Le beau Danube bleu ~ Blue Danube</rend>
                      <rend xml:id="r13zug4z" halign="right" valign="bottom">Johann Strauß, op. 314 (1867)</rend>
                   </pgHead>
                   <staffGrp xml:id="s1ny9wgb">
@@ -15010,7 +15010,7 @@
                            <layer xml:id="l1t8mca8" n="1">
                               <note xml:id="n1tr5mmr" dots="1" dur="2" oct="5" pname="d" stem.dir="down" />
                            </layer>
-                           <layer xml:id="ldghd5j" n="2">
+                           <layer xml:id="lbgysb3" n="2">
                               <rest xml:id="rmw2073" dur="4" ploc="a" oloc="5" />
                               <rest xml:id="rmw207o" dur="4" ploc="a" oloc="5" />
                               <note xml:id="npvdaaq" dur="8" oct="5" pname="d" grace="unacc" stem.dir="up" />
