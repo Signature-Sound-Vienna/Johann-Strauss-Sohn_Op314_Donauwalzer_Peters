@@ -31,7 +31,7 @@
    <music xml:id="mj7ygx8">
       <facsimile xml:id="fpdltmb1">
          <surface xml:id="surface_01J8SBXEQ7KKHCPGCW0A994RD8" lrx="1626" lry="2252" n="1" ulx="0" uly="0">
-            <graphic xml:id="graphic_01J8SBXEQ72QN6RQZZZ8NY6E7R" height="2253" target="IMSLP77157-PMLP06843-Strauss-Jr--Blue-Danube-Op314--tr-Piano--Ed-Peters-1.jpg" width="1627"/>
+            <graphic xml:id="graphic_01J8SBXEQ72QN6RQZZZ8NY6E7R" height="2253" target="img/IMSLP77157-PMLP06843-Strauss-Jr--Blue-Danube-Op314--tr-Piano--Ed-Peters-1.jpg" width="1627"/>
             <zone xml:id="zone_01J8SBXEQ8P6D64NY51CCHSNSG" lrx="485" lry="665" type="measure" ulx="138" uly="310"/>
             <zone xml:id="zone_01J8SBXEQ828KEKA6N5938FXCR" lrx="696" lry="668" type="measure" ulx="456" uly="312"/>
             <zone xml:id="zone_01J8SBXEQ8F7Y5C8CVFKNHYFST" lrx="889" lry="672" type="measure" ulx="666" uly="317"/>
@@ -78,7 +78,7 @@
             <zone xml:id="zone_01J8SBXEQEQ8YFSCNKHT1VKVKN" lrx="1574" lry="2128" type="measure" ulx="1417" uly="1870"/>
          </surface>
          <surface xml:id="surface_01J8SBXEQETPQ5YF8C9PCAT9J7" lrx="1626" lry="2252" n="2" ulx="0" uly="0">
-            <graphic xml:id="graphic_01J8SBXEQE0CCTZZ5A2KMAR8YB" height="2253" target="IMSLP77157-PMLP06843-Strauss-Jr--Blue-Danube-Op314--tr-Piano--Ed-Peters-2.jpg" width="1627"/>
+            <graphic xml:id="graphic_01J8SBXEQE0CCTZZ5A2KMAR8YB" height="2253" target="img/IMSLP77157-PMLP06843-Strauss-Jr--Blue-Danube-Op314--tr-Piano--Ed-Peters-2.jpg" width="1627"/>
             <zone xml:id="zone_01J8SBXEQFZJM3KF4RBHEHZYGM" lrx="472" lry="376" type="measure" ulx="138" uly="55"/>
             <zone xml:id="zone_01J8SBXEQFWGF6QCKTMNCC8M3S" lrx="631" lry="376" type="measure" ulx="440" uly="60"/>
             <zone xml:id="zone_01J8SBXEQFABREGDQ37CKMGJX7" lrx="790" lry="375" type="measure" ulx="598" uly="60"/>
@@ -141,7 +141,7 @@
             <zone xml:id="zone_01J8SBXEQP96HWEVTNP52SXPNX" lrx="1590" lry="2139" type="measure" ulx="1423" uly="1815"/>
          </surface>
          <surface xml:id="surface_01J8SBXEQPJ2H4V96FHAPAV4E3" lrx="1626" lry="2252" n="3" ulx="0" uly="0">
-            <graphic xml:id="graphic_01J8SBXEQQ3N37EAARRF6HYP6N" height="2253" target="IMSLP77157-PMLP06843-Strauss-Jr--Blue-Danube-Op314--tr-Piano--Ed-Peters-3.jpg" width="1627"/>
+            <graphic xml:id="graphic_01J8SBXEQQ3N37EAARRF6HYP6N" height="2253" target="img/IMSLP77157-PMLP06843-Strauss-Jr--Blue-Danube-Op314--tr-Piano--Ed-Peters-3.jpg" width="1627"/>
             <zone xml:id="zone_01J8SBXEQQP24ZSYT08386QQ8D" lrx="364" lry="380" type="measure" ulx="60" uly="41"/>
             <zone xml:id="zone_01J8SBXEQQEHBP4J5TSJ8CV9TK" lrx="509" lry="371" type="measure" ulx="325" uly="45"/>
             <zone xml:id="zone_01J8SBXEQQ5CJ98D5CPXFD5VJ0" lrx="658" lry="373" type="measure" ulx="473" uly="47"/>
@@ -204,7 +204,7 @@
             <zone xml:id="zone_01J8SBXEQW6DK0K9D5699J0BKJ" lrx="1556" lry="2123" type="measure" ulx="1368" uly="1812"/>
          </surface>
          <surface xml:id="surface_01J8SBXEQWAJ4YXDQ8B81BM02Y" lrx="1626" lry="2252" n="4" ulx="0" uly="0">
-            <graphic xml:id="graphic_01J8SBXEQXJB148M9E1MRZ7V08" height="2253" target="IMSLP77157-PMLP06843-Strauss-Jr--Blue-Danube-Op314--tr-Piano--Ed-Peters-4.jpg" width="1627"/>
+            <graphic xml:id="graphic_01J8SBXEQXJB148M9E1MRZ7V08" height="2253" target="img/IMSLP77157-PMLP06843-Strauss-Jr--Blue-Danube-Op314--tr-Piano--Ed-Peters-4.jpg" width="1627"/>
             <zone xml:id="zone_01J8SBXEQXE9BV8YP0QRSV0QWJ" lrx="372" lry="359" type="measure" ulx="109" uly="68"/>
             <zone xml:id="zone_01J8SBXEQXAENDEPWSYWKNKNR6" lrx="473" lry="362" type="measure" ulx="338" uly="78"/>
             <zone xml:id="zone_01J8SBXEQXTDX4XM824NRBNP6T" lrx="661" lry="366" type="measure" ulx="441" uly="77"/>
@@ -263,7 +263,7 @@
             <zone xml:id="zone_01J8SBXER2Y90NXSPQQNPDPM2A" lrx="1544" lry="2143" type="measure" ulx="1348" uly="1826"/>
          </surface>
          <surface xml:id="surface_01J8SBXER2RNCM6CV27WSFWVXK" lrx="1626" lry="2252" n="5" ulx="0" uly="0">
-            <graphic xml:id="graphic_01J8SBXER2VME00QMJ7ZSB2ZGP" height="2253" target="IMSLP77157-PMLP06843-Strauss-Jr--Blue-Danube-Op314--tr-Piano--Ed-Peters-5.jpg" width="1627"/>
+            <graphic xml:id="graphic_01J8SBXER2VME00QMJ7ZSB2ZGP" height="2253" target="img/IMSLP77157-PMLP06843-Strauss-Jr--Blue-Danube-Op314--tr-Piano--Ed-Peters-5.jpg" width="1627"/>
             <zone xml:id="zone_01J8SBXER2HB6KD8270ZMB3D46" lrx="376" lry="366" type="measure" ulx="34" uly="56"/>
             <zone xml:id="zone_01J8SBXER22K7FXH454819QGTZ" lrx="548" lry="362" type="measure" ulx="337" uly="46"/>
             <zone xml:id="zone_01J8SBXER3G0YRZV8EZFZQMR77" lrx="704" lry="358" type="measure" ulx="510" uly="35"/>
@@ -322,7 +322,7 @@
             <zone xml:id="zone_01J8SBXER80BMZRYB2GWWBE1VA" lrx="1578" lry="2154" type="measure" ulx="1405" uly="1850"/>
          </surface>
          <surface xml:id="surface_01J8SBXER84GFBM40WQN48FNGT" lrx="1626" lry="2252" n="6" ulx="0" uly="0">
-            <graphic xml:id="graphic_01J8SBXER8VQ3B0EBX1E7NV9GS" height="2253" target="IMSLP77157-PMLP06843-Strauss-Jr--Blue-Danube-Op314--tr-Piano--Ed-Peters-6.jpg" width="1627"/>
+            <graphic xml:id="graphic_01J8SBXER8VQ3B0EBX1E7NV9GS" height="2253" target="img/IMSLP77157-PMLP06843-Strauss-Jr--Blue-Danube-Op314--tr-Piano--Ed-Peters-6.jpg" width="1627"/>
             <zone xml:id="zone_01J8SBXER84CR5HX197AZFWSR3" lrx="314" lry="384" type="measure" ulx="30" uly="49"/>
             <zone xml:id="zone_01J8SBXER8J2BEF3MQGMN6QPV5" lrx="433" lry="377" type="measure" ulx="281" uly="57"/>
             <zone xml:id="zone_01J8SBXER8THBV91P2V4047Q82" lrx="557" lry="375" type="measure" ulx="400" uly="53"/>
@@ -394,7 +394,7 @@
             <zone xml:id="zone_01J8SBXERH3GJPSBWD2PNNDMB1" lrx="1537" lry="2151" type="measure" ulx="1357" uly="1831"/>
          </surface>
          <surface xml:id="surface_01J8SBXERH6XRTGQZ1HS9D9B8Q" lrx="1626" lry="2252" n="7" ulx="0" uly="0">
-            <graphic xml:id="graphic_01J8SBXERHZRJ19FFBDY45TZ54" height="2253" target="IMSLP77157-PMLP06843-Strauss-Jr--Blue-Danube-Op314--tr-Piano--Ed-Peters-7.jpg" width="1627"/>
+            <graphic xml:id="graphic_01J8SBXERHZRJ19FFBDY45TZ54" height="2253" target="img/IMSLP77157-PMLP06843-Strauss-Jr--Blue-Danube-Op314--tr-Piano--Ed-Peters-7.jpg" width="1627"/>
             <zone xml:id="zone_01J8SBXERHDVVGZ55DFM664Q29" lrx="306" lry="386" type="measure" ulx="23" uly="55"/>
             <zone xml:id="zone_01J8SBXERHF5XGMFKH58A2V7M6" lrx="442" lry="388" type="measure" ulx="267" uly="60"/>
             <zone xml:id="zone_01J8SBXERHQJ2A5FMYR09ES6E1" lrx="577" lry="387" type="measure" ulx="404" uly="59"/>
